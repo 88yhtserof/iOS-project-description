@@ -32,3 +32,6 @@
   - UITableDataSource와 UITableDelegate 사용
   - UserDefaults를 사용해 생성한 할 일들을 저장할 수 있게 한다.
   - Alert를 사용해 할 일을 추가한다.
+
+
+7. [Diary](https://github.com/88yhtserof/Diary) 진행 중
