@@ -34,4 +34,13 @@
   - Alert를 사용해 할 일을 추가한다.
 
 
-7. [Diary](https://github.com/88yhtserof/Diary) 진행 중
+7. [Diary](https://github.com/88yhtserof/Diary)
+  - 즐겨찾기 설정이 가능한 일기 작성 서비스
+  - UITaBarController를 사용해 일기장과 즐겨찾기 화면 구분
+  - UICollectionView를 사용해 일기를 보여준다.
+  - UserDefaults를 사용해 데이터르 저장한다.
+  - NotificationCenter를 사용해 화면 간 데이터를 주고 받는다.
+
+
+
+
