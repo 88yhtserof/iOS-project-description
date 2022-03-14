@@ -42,5 +42,14 @@
   - NotificationCenter를 사용해 화면 간 데이터를 주고 받는다.
 
 8. [PomodoroTimer](https://github.com/88yhtserof/PomodoroTimer)
+  - 이미지 회전 기능과 일시중지, 시작, 취소 기능이 있는 타이머
+  - DatePicker를 사용해 시간을 선택할 수 있다.
+  - DispatchSourceTimer를 사용해 타이머 생성
+  - UIView.animate()를 사용해 이미지 회전과 타이머 숨김 애니메이션 설정
+
+
+
+
+
 
 
