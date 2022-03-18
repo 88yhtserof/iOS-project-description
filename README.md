@@ -49,7 +49,7 @@
 
 
 9. [Weather](https://github.com/88yhtserof/Weather)
-
+  - 도시를 검색해 날씨 정보 얻기
 
 
 
