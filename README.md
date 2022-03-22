@@ -50,6 +50,12 @@
 
 9. [Weather](https://github.com/88yhtserof/Weather)
   - 도시를 검색해 날씨 정보 얻기
+  - URLSession을 이용한 HTTP 통신
+  - Codable 프로토콜을 채택해 openWeatherMap 서버에서 받은 JSON 데이터를 해당 구조체 타입으로 변환
+
+
+
+
 
 
 
