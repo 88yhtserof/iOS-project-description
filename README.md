@@ -54,7 +54,7 @@
   - Codable 프로토콜을 채택해 openWeatherMap 서버에서 받은 JSON 데이터를 해당 구조체 타입으로 변환
 
 
-
+10. [COVID19](https://github.com/88yhtserof/COVID19)
 
 
 
