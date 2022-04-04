@@ -55,6 +55,14 @@
 
 
 10. [COVID19](https://github.com/88yhtserof/COVID19)
+  - 코로나 현황판
+  - CocoaPods
+  - Alamofire와 Chars 라이브러리 사용
+  - 굿바이 코로나 API 사용
+
+
+
+
 
 
 
