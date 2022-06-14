@@ -63,9 +63,10 @@
 11. [Spotify 로그인](https://github.com/88yhtserof/iOS-Projects)
   - Spotify 스타일의 로그인 화면
   - Firebase를 사용한 여러 로그인 기능
-  - 이메일/비밀번호 로그인
+  - 이메일/비밀번호 로그인, 비밀번호 변경
   - 구글 로그인
   - Apple 로그인
+  - 프로필 이름 변경
 
 
 
