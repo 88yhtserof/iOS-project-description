@@ -60,7 +60,7 @@
   - Alamofire와 Chars 라이브러리 사용
   - 굿바이 코로나 API 사용
 
-11. [Spotify 로그인]([https://github.com/88yhtserof/COVID19](https://github.com/88yhtserof/iOS-Projects)
+11. [Spotify 로그인](https://github.com/88yhtserof/iOS-Projects)
   - Spotify 스타일의 로그인 화면
   - Firebase를 사용한 여러 로그인 기능
   - 이메일/비밀번호 로그인
