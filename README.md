@@ -68,7 +68,12 @@
   - Apple 로그인
   - 프로필 이름 변경
 
-
+12. [신용카드 리스트](https://github.com/88yhtserof/iOS-Projects)
+  - 신용카드 목록
+  - Firebase의 실시간데이터베이스(RealtimeDatabase)를 사용한 데이터 입력과 삭제
+  - Firebase의 Firestore를 사용한 데이터 입력과 삭제
+  - 오픈 API Lottie를 사용한 이미지 애니메이션
+  - TableView
 
 
 
